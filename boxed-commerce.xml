@@ -1,0 +1,8 @@
+?xml version="1.0" encoding="utf-8" ?>
+<Template xmlns="https://schemas.altazion.com/sys/template.xsd">
+  <Name>Boxed Template</Name>
+  <Description>Un design épuré et très clair pour une mise en avant de vos produits</Description>
+  <Author>Altazion</Author>
+  <BasedOn>Commerce</BasedOn>
+
+</Template>
